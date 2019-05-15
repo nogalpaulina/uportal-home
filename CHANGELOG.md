@@ -8,6 +8,14 @@ and this project adheres to
 
 ## [Unreleased][]
 
+### Development process change
+
++ Added checkbox to Pull Request template reminding to consider security
+  implications of change. Need for checks to ensure considering security
+  implications of change was flagged in UW Cybersecurity Risk Management
+  Framework review of MyUW; this is one tiny process change to partially
+  address that finding. (#883)
+
 ## [9.1.0][] - 2019-05-13
 
 ### Fixes in unreleased
